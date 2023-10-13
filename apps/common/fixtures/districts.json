@@ -1,0 +1,2680 @@
+[
+  {
+    "model": "common.District",
+    "pk": "1",
+    "fields": {
+      "guid": "bfb0393e-fcf2-4896-b780-af97860fdfc9",
+      "created_time": "2023-03-13 12:22:00.633995+00",
+      "updated_time": "2023-03-13 12:22:00.634009+00",
+      "name": "Baliqchi tumani",
+      "region": "1",
+      "name_ru": "Балыкчинский район",
+      "name_uz": "Baliqchi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "2",
+    "fields": {
+      "guid": "637dc961-3f36-4bdf-88c9-591469862be1",
+      "created_time": "2023-03-13 12:22:00.637067+00",
+      "updated_time": "2023-03-13 12:22:00.637078+00",
+      "name": "Bo'z tumani",
+      "region": "1",
+      "name_ru": "Бозский район",
+      "name_uz": "Bo'z tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "3",
+    "fields": {
+      "guid": "bb7b6a71-4e08-4bd2-92bf-485697600b00",
+      "created_time": "2023-03-13 12:22:00.638251+00",
+      "updated_time": "2023-03-13 12:22:00.638259+00",
+      "name": "Buloqboshi tumani",
+      "region": "1",
+      "name_ru": "Булакбашинский район",
+      "name_uz": "Buloqboshi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "4",
+    "fields": {
+      "guid": "32a24805-c044-491c-9c34-b95ca20a26d9",
+      "created_time": "2023-03-13 12:22:00.639444+00",
+      "updated_time": "2023-03-13 12:22:00.639452+00",
+      "name": "Izboskan tumani",
+      "region": "1",
+      "name_ru": "Избасканский район",
+      "name_uz": "Izboskan tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "5",
+    "fields": {
+      "guid": "209ed66b-28f3-4e05-8546-b7f895d76ed6",
+      "created_time": "2023-03-13 12:22:00.640641+00",
+      "updated_time": "2023-03-13 12:22:00.640648+00",
+      "name": "Jalolquduq tumani",
+      "region": "1",
+      "name_ru": "Джалалкудукский район",
+      "name_uz": "Jalolquduq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "6",
+    "fields": {
+      "guid": "53cfaf4f-b5a6-4453-bbd4-aacdaa989370",
+      "created_time": "2023-03-13 12:22:00.64205+00",
+      "updated_time": "2023-03-13 12:22:00.642059+00",
+      "name": "Xonobod shahri",
+      "region": "1",
+      "name_ru": "город Ханабад",
+      "name_uz": "Xonobod shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "7",
+    "fields": {
+      "guid": "0d1a24f8-a929-4a0d-a00e-7da93b050438",
+      "created_time": "2023-03-13 12:22:00.643509+00",
+      "updated_time": "2023-03-13 12:22:00.643519+00",
+      "name": "Xo'jaobod tumani",
+      "region": "1",
+      "name_ru": "Ходжаабадский район",
+      "name_uz": "Xo'jaobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "8",
+    "fields": {
+      "guid": "5be33d3a-1e82-4d84-a1de-f10261fc4fa2",
+      "created_time": "2023-03-13 12:22:00.645174+00",
+      "updated_time": "2023-03-13 12:22:00.645189+00",
+      "name": "Marxamat tumani",
+      "region": "1",
+      "name_ru": "Мархаматский район",
+      "name_uz": "Marxamat tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "9",
+    "fields": {
+      "guid": "395a4a0e-df19-4efe-b8c7-2f2e97f37c54",
+      "created_time": "2023-03-13 12:22:00.647996+00",
+      "updated_time": "2023-03-13 12:22:00.648023+00",
+      "name": "Oltinko'l tumani",
+      "region": "1",
+      "name_ru": "Aлтынкульский район",
+      "name_uz": "Oltinko'l tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "10",
+    "fields": {
+      "guid": "66780852-a561-481a-b70c-ff74700942fb",
+      "created_time": "2023-03-13 12:22:00.649809+00",
+      "updated_time": "2023-03-13 12:22:00.649815+00",
+      "name": "Paxtaobod tumani",
+      "region": "1",
+      "name_ru": "Пахтаабадский район",
+      "name_uz": "Paxtaobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "11",
+    "fields": {
+      "guid": "88297919-8dc8-4ce1-8cdd-de02736b4da3",
+      "created_time": "2023-03-13 12:22:00.650922+00",
+      "updated_time": "2023-03-13 12:22:00.650928+00",
+      "name": "Qo'rg'ontepa tumani",
+      "region": "1",
+      "name_ru": "Кургантепинский район",
+      "name_uz": "Qo'rg'ontepa tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "12",
+    "fields": {
+      "guid": "be4e4870-4265-46a6-a4a1-04c585d73822",
+      "created_time": "2023-03-13 12:22:00.652479+00",
+      "updated_time": "2023-03-13 12:22:00.652498+00",
+      "name": "Shaxrixon tumani",
+      "region": "1",
+      "name_ru": "Шахриханский район",
+      "name_uz": "Shaxrixon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "13",
+    "fields": {
+      "guid": "97131ad9-c17d-4d85-ac3b-2d50d0f65a34",
+      "created_time": "2023-03-13 12:22:00.653628+00",
+      "updated_time": "2023-03-13 12:22:00.653634+00",
+      "name": "Ulug'nor tumani",
+      "region": "1",
+      "name_ru": "Улугнорский район",
+      "name_uz": "Ulug'nor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "14",
+    "fields": {
+      "guid": "7fdd6a08-95b7-43c5-9533-0451f9f76acd",
+      "created_time": "2023-03-13 12:22:00.654664+00",
+      "updated_time": "2023-03-13 12:22:00.65467+00",
+      "name": "Andijon shahri",
+      "region": "1",
+      "name_ru": "город Aндижан",
+      "name_uz": "Andijon shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "15",
+    "fields": {
+      "guid": "678a8d2c-7a1e-48bc-9b42-141cc45ba720",
+      "created_time": "2023-03-13 12:22:00.655736+00",
+      "updated_time": "2023-03-13 12:22:00.655743+00",
+      "name": "Andijon tumani",
+      "region": "1",
+      "name_ru": "Aндижанский район",
+      "name_uz": "Andijon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "16",
+    "fields": {
+      "guid": "7a6de5d3-1819-45aa-825e-7bf941f174c1",
+      "created_time": "2023-03-13 12:22:00.656744+00",
+      "updated_time": "2023-03-13 12:22:00.656751+00",
+      "name": "Asaka tumani",
+      "region": "1",
+      "name_ru": "Aсакинский район",
+      "name_uz": "Asaka tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "17",
+    "fields": {
+      "guid": "7e0c757b-f7b6-4eb2-a5c6-8236941404e3",
+      "created_time": "2023-03-13 12:22:00.657621+00",
+      "updated_time": "2023-03-13 12:22:00.657628+00",
+      "name": "Buxoro shahri",
+      "region": "2",
+      "name_ru": "город Бухара",
+      "name_uz": "Buxoro shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "18",
+    "fields": {
+      "guid": "d3afaa14-32eb-41b1-b7f7-fd21b3a76883",
+      "created_time": "2023-03-13 12:22:00.659062+00",
+      "updated_time": "2023-03-13 12:22:00.659104+00",
+      "name": "Buxoro tumani",
+      "region": "2",
+      "name_ru": "Бухарский район",
+      "name_uz": "Buxoro tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "19",
+    "fields": {
+      "guid": "00985000-49c9-42f9-902d-ce71d74b98d0",
+      "created_time": "2023-03-13 12:22:00.661353+00",
+      "updated_time": "2023-03-13 12:22:00.661372+00",
+      "name": "G'ijduvon tumani",
+      "region": "2",
+      "name_ru": "Гиждуванский район",
+      "name_uz": "G'ijduvon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "20",
+    "fields": {
+      "guid": "7585f253-cdfe-4a54-8441-bce669145042",
+      "created_time": "2023-03-13 12:22:00.662754+00",
+      "updated_time": "2023-03-13 12:22:00.662761+00",
+      "name": "Jondor tumani",
+      "region": "2",
+      "name_ru": "Жондорский район",
+      "name_uz": "Jondor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "21",
+    "fields": {
+      "guid": "4e32f7b3-5585-4398-b962-af760159499a",
+      "created_time": "2023-03-13 12:22:00.663827+00",
+      "updated_time": "2023-03-13 12:22:00.663844+00",
+      "name": "Kogon shahri",
+      "region": "2",
+      "name_ru": "город Каган",
+      "name_uz": "Kogon shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "22",
+    "fields": {
+      "guid": "a56a7455-93c8-4823-b74c-b17d46a5bb1a",
+      "created_time": "2023-03-13 12:22:00.664988+00",
+      "updated_time": "2023-03-13 12:22:00.664995+00",
+      "name": "Kogon tumani",
+      "region": "2",
+      "name_ru": "Каганский район",
+      "name_uz": "Kogon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "23",
+    "fields": {
+      "guid": "7d7266a6-9578-4e48-a084-d56746693d7d",
+      "created_time": "2023-03-13 12:22:00.665987+00",
+      "updated_time": "2023-03-13 12:22:00.665993+00",
+      "name": "Olot tumani",
+      "region": "2",
+      "name_ru": "Aлатский район",
+      "name_uz": "Olot tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "24",
+    "fields": {
+      "guid": "7126a4a0-6d98-47ab-a39a-73f868cf70d7",
+      "created_time": "2023-03-13 12:22:00.667095+00",
+      "updated_time": "2023-03-13 12:22:00.667102+00",
+      "name": "Peshku tumani",
+      "region": "2",
+      "name_ru": "Пешкунский район",
+      "name_uz": "Peshku tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "25",
+    "fields": {
+      "guid": "5c5e23a6-1715-452d-9286-92d088e5ea5a",
+      "created_time": "2023-03-13 12:22:00.668194+00",
+      "updated_time": "2023-03-13 12:22:00.6682+00",
+      "name": "Qorako'l tumani",
+      "region": "2",
+      "name_ru": "Каракульский район",
+      "name_uz": "Qorako'l tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "26",
+    "fields": {
+      "guid": "5cddd2a5-8eb4-4cf5-a8b2-c29babb3d1c6",
+      "created_time": "2023-03-13 12:22:00.669224+00",
+      "updated_time": "2023-03-13 12:22:00.669232+00",
+      "name": "Qorovulbozor tumani",
+      "region": "2",
+      "name_ru": "Караулбазарский район",
+      "name_uz": "Qorovulbozor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "27",
+    "fields": {
+      "guid": "ef3b18a7-f2ec-43f1-86a6-1e795ceacf50",
+      "created_time": "2023-03-13 12:22:00.670273+00",
+      "updated_time": "2023-03-13 12:22:00.670279+00",
+      "name": "Romitan tumani",
+      "region": "2",
+      "name_ru": "Ромитанский район",
+      "name_uz": "Romitan tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "28",
+    "fields": {
+      "guid": "92eebdf0-a648-42d4-91a1-4f4745a24687",
+      "created_time": "2023-03-13 12:22:00.671343+00",
+      "updated_time": "2023-03-13 12:22:00.67135+00",
+      "name": "Shofirkon tumani",
+      "region": "2",
+      "name_ru": "Шафирканский район",
+      "name_uz": "Shofirkon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "29",
+    "fields": {
+      "guid": "b58ee1db-0132-41eb-a961-8fcf736048b7",
+      "created_time": "2023-03-13 12:22:00.672317+00",
+      "updated_time": "2023-03-13 12:22:00.672323+00",
+      "name": "Vobkent tumani",
+      "region": "2",
+      "name_ru": "Вабкентский район",
+      "name_uz": "Vobkent tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "30",
+    "fields": {
+      "guid": "1a7fb324-8a86-49d1-a6e2-fed1f5b67d23",
+      "created_time": "2023-03-13 12:22:00.673325+00",
+      "updated_time": "2023-03-13 12:22:00.673332+00",
+      "name": "Beshariq tumani",
+      "region": "3",
+      "name_ru": "Бешарыкский район",
+      "name_uz": "Beshariq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "31",
+    "fields": {
+      "guid": "0a16e79d-530b-43ae-9f7c-342133b917be",
+      "created_time": "2023-03-13 12:22:00.674381+00",
+      "updated_time": "2023-03-13 12:22:00.674388+00",
+      "name": "Bog'dod tumani",
+      "region": "3",
+      "name_ru": "Багдадский район",
+      "name_uz": "Bog'dod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "32",
+    "fields": {
+      "guid": "129977c3-f676-4c04-9177-99274071feb3",
+      "created_time": "2023-03-13 12:22:00.6757+00",
+      "updated_time": "2023-03-13 12:22:00.675719+00",
+      "name": "Buvayda tumani",
+      "region": "3",
+      "name_ru": "Бувайдинский район",
+      "name_uz": "Buvayda tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "33",
+    "fields": {
+      "guid": "9197bb1b-22b5-4aa5-9881-a62d7510785e",
+      "created_time": "2023-03-13 12:22:00.676965+00",
+      "updated_time": "2023-03-13 12:22:00.676972+00",
+      "name": "Dang'ara tumani",
+      "region": "3",
+      "name_ru": "Дангаринский район",
+      "name_uz": "Dang'ara tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "34",
+    "fields": {
+      "guid": "ed4b3750-18c7-4b7d-8654-e520569cfdf1",
+      "created_time": "2023-03-13 12:22:00.677895+00",
+      "updated_time": "2023-03-13 12:22:00.677902+00",
+      "name": "Farg'ona shahri",
+      "region": "3",
+      "name_ru": "город Фергана",
+      "name_uz": "Farg'ona shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "35",
+    "fields": {
+      "guid": "2fa1609c-33cb-4be5-8957-d5332a5514d2",
+      "created_time": "2023-03-13 12:22:00.678899+00",
+      "updated_time": "2023-03-13 12:22:00.678906+00",
+      "name": "Farg'ona tumani",
+      "region": "3",
+      "name_ru": "Ферганский район",
+      "name_uz": "Farg'ona tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "36",
+    "fields": {
+      "guid": "af92a189-72b9-4eee-9897-113b8177e936",
+      "created_time": "2023-03-13 12:22:00.679831+00",
+      "updated_time": "2023-03-13 12:22:00.679837+00",
+      "name": "Furqat tumani",
+      "region": "3",
+      "name_ru": "Фуркатский район",
+      "name_uz": "Furqat tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "37",
+    "fields": {
+      "guid": "06ea11ee-21cb-40ea-87a3-04980a6669d4",
+      "created_time": "2023-03-13 12:22:00.680771+00",
+      "updated_time": "2023-03-13 12:22:00.680777+00",
+      "name": "Qo'qon shahri",
+      "region": "3",
+      "name_ru": "город Коканд",
+      "name_uz": "Qo'qon shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "38",
+    "fields": {
+      "guid": "0f866ba8-99db-412e-aeb8-40fc977f0ea3",
+      "created_time": "2023-03-13 12:22:00.681636+00",
+      "updated_time": "2023-03-13 12:22:00.681642+00",
+      "name": "Marg'ilon shahri",
+      "region": "3",
+      "name_ru": "город Маргилан",
+      "name_uz": "Marg'ilon shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "39",
+    "fields": {
+      "guid": "26394fac-3191-451e-8edd-f49851b6c5f3",
+      "created_time": "2023-03-13 12:22:00.682627+00",
+      "updated_time": "2023-03-13 12:22:00.682634+00",
+      "name": "Oltiariq tumani",
+      "region": "3",
+      "name_ru": "Aлтыарыкский район",
+      "name_uz": "Oltiariq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "40",
+    "fields": {
+      "guid": "439d7572-53b3-4129-bd77-1360857f632f",
+      "created_time": "2023-03-13 12:22:00.683668+00",
+      "updated_time": "2023-03-13 12:22:00.683674+00",
+      "name": "Qo'shtepa tumani",
+      "region": "3",
+      "name_ru": "Куштепинский район",
+      "name_uz": "Qo'shtepa tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "41",
+    "fields": {
+      "guid": "5289f8a2-cf93-4ada-b5e2-aa013b73c7d6",
+      "created_time": "2023-03-13 12:22:00.68453+00",
+      "updated_time": "2023-03-13 12:22:00.684536+00",
+      "name": "Quva tumani",
+      "region": "3",
+      "name_ru": "Кувинский район",
+      "name_uz": "Quva tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "42",
+    "fields": {
+      "guid": "7592eae3-c90e-4e6d-90c4-2bdbd3bb5602",
+      "created_time": "2023-03-13 12:22:00.685391+00",
+      "updated_time": "2023-03-13 12:22:00.685398+00",
+      "name": "Quvasoy shahri",
+      "region": "3",
+      "name_ru": "город Кувасай",
+      "name_uz": "Quvasoy shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "43",
+    "fields": {
+      "guid": "ca839077-940e-4c3d-a82f-1d6794b856ac",
+      "created_time": "2023-03-13 12:22:00.686421+00",
+      "updated_time": "2023-03-13 12:22:00.686427+00",
+      "name": "Rishton tumani",
+      "region": "3",
+      "name_ru": "Риштанский район",
+      "name_uz": "Rishton tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "44",
+    "fields": {
+      "guid": "7466fc0f-c872-4038-9301-962384522149",
+      "created_time": "2023-03-13 12:22:00.687387+00",
+      "updated_time": "2023-03-13 12:22:00.687393+00",
+      "name": "So'x tumani",
+      "region": "3",
+      "name_ru": "Сохский район",
+      "name_uz": "So'x tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "45",
+    "fields": {
+      "guid": "83d186f8-3b8c-426c-a024-49beda0ac980",
+      "created_time": "2023-03-13 12:22:00.688696+00",
+      "updated_time": "2023-03-13 12:22:00.688703+00",
+      "name": "Toshloq tumani",
+      "region": "3",
+      "name_ru": "Ташлакский район",
+      "name_uz": "Toshloq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "46",
+    "fields": {
+      "guid": "57b8bba8-50d2-4dea-ac34-4d0f88045353",
+      "created_time": "2023-03-13 12:22:00.690074+00",
+      "updated_time": "2023-03-13 12:22:00.690081+00",
+      "name": "Uchko'prik tumani",
+      "region": "3",
+      "name_ru": "Учкуприкский район",
+      "name_uz": "Uchko'prik tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "47",
+    "fields": {
+      "guid": "68465365-34ad-47b8-be03-0d6208d3bbd5",
+      "created_time": "2023-03-13 12:22:00.691236+00",
+      "updated_time": "2023-03-13 12:22:00.691243+00",
+      "name": "O'zbekiston tumani",
+      "region": "3",
+      "name_ru": "Узбекистанский район",
+      "name_uz": "O'zbekiston tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "48",
+    "fields": {
+      "guid": "42f5af04-0e1c-4603-b1a6-70ed56a37687",
+      "created_time": "2023-03-13 12:22:00.692578+00",
+      "updated_time": "2023-03-13 12:22:00.692584+00",
+      "name": "Yozyovon tumani",
+      "region": "3",
+      "name_ru": "Язъяванский район",
+      "name_uz": "Yozyovon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "49",
+    "fields": {
+      "guid": "63f31178-a176-4197-9de1-0f97de5d9086",
+      "created_time": "2023-03-13 12:22:00.693785+00",
+      "updated_time": "2023-03-13 12:22:00.693794+00",
+      "name": "Arnasoy tumani",
+      "region": "4",
+      "name_ru": "Aрнасайский район",
+      "name_uz": "Arnasoy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "50",
+    "fields": {
+      "guid": "ae487025-f4d8-4bfa-a2d5-59aaa041ec01",
+      "created_time": "2023-03-13 12:22:00.695168+00",
+      "updated_time": "2023-03-13 12:22:00.695178+00",
+      "name": "Baxmal tumani",
+      "region": "4",
+      "name_ru": "Бахмальский район",
+      "name_uz": "Baxmal tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "51",
+    "fields": {
+      "guid": "e930eac9-5acd-49fa-a2c5-f4e47c754298",
+      "created_time": "2023-03-13 12:22:00.696743+00",
+      "updated_time": "2023-03-13 12:22:00.696754+00",
+      "name": "Do'stlik tumani",
+      "region": "4",
+      "name_ru": "Дустликский район",
+      "name_uz": "Do'stlik tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "52",
+    "fields": {
+      "guid": "58da1501-9385-49be-bf8c-9cf045de0759",
+      "created_time": "2023-03-13 12:22:00.698078+00",
+      "updated_time": "2023-03-13 12:22:00.698087+00",
+      "name": "Forish tumani",
+      "region": "4",
+      "name_ru": "Фаришский район",
+      "name_uz": "Forish tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "53",
+    "fields": {
+      "guid": "6d25c375-c156-4439-bd60-85521a38809e",
+      "created_time": "2023-03-13 12:22:00.69926+00",
+      "updated_time": "2023-03-13 12:22:00.699269+00",
+      "name": "G'allaorol tumani",
+      "region": "4",
+      "name_ru": "Галляаральский район",
+      "name_uz": "G'allaorol tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "54",
+    "fields": {
+      "guid": "420fbaf9-c7a7-4bf9-95d7-daae32d19710",
+      "created_time": "2023-03-13 12:22:00.700505+00",
+      "updated_time": "2023-03-13 12:22:00.700513+00",
+      "name": "Jizzax shahri",
+      "region": "4",
+      "name_ru": "город Джизак",
+      "name_uz": "Jizzax shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "55",
+    "fields": {
+      "guid": "68af93a1-d779-4dc3-8750-b6d7662c8b7c",
+      "created_time": "2023-03-13 12:22:00.701585+00",
+      "updated_time": "2023-03-13 12:22:00.701591+00",
+      "name": "Mirzacho'l tumani",
+      "region": "4",
+      "name_ru": "Мирзачульский район",
+      "name_uz": "Mirzacho'l tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "56",
+    "fields": {
+      "guid": "a15dc795-c5c7-4dd9-a507-6c1be64dd762",
+      "created_time": "2023-03-13 12:22:00.702524+00",
+      "updated_time": "2023-03-13 12:22:00.70253+00",
+      "name": "Paxtakor tumani",
+      "region": "4",
+      "name_ru": "Пахтакорский район",
+      "name_uz": "Paxtakor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "57",
+    "fields": {
+      "guid": "6876cfac-c874-4d51-a4f5-ddba4b58feb6",
+      "created_time": "2023-03-13 12:22:00.703577+00",
+      "updated_time": "2023-03-13 12:22:00.703584+00",
+      "name": "Sharof Rashidov tumani",
+      "region": "4",
+      "name_ru": "Шараф Рашидовский район",
+      "name_uz": "Sharof Rashidov tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "58",
+    "fields": {
+      "guid": "2ae8bfba-8d04-46d9-a044-1b537d19f737",
+      "created_time": "2023-03-13 12:22:00.704625+00",
+      "updated_time": "2023-03-13 12:22:00.704631+00",
+      "name": "Yangiobod tumani",
+      "region": "4",
+      "name_ru": "Янгиабадский район",
+      "name_uz": "Yangiobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "59",
+    "fields": {
+      "guid": "e3be0169-0aa5-4685-a193-014ffc64620b",
+      "created_time": "2023-03-13 12:22:00.705846+00",
+      "updated_time": "2023-03-13 12:22:00.705853+00",
+      "name": "Zafarobod tumani",
+      "region": "4",
+      "name_ru": "Зафарабадский район",
+      "name_uz": "Zafarobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "60",
+    "fields": {
+      "guid": "7834e351-3c9a-4ab8-8e3e-06119c8ce5f0",
+      "created_time": "2023-03-13 12:22:00.707189+00",
+      "updated_time": "2023-03-13 12:22:00.707199+00",
+      "name": "Zarbdor tumani",
+      "region": "4",
+      "name_ru": "Зарбдарский район",
+      "name_uz": "Zarbdor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "61",
+    "fields": {
+      "guid": "679765bd-acf1-42e3-8be2-763dc2843b46",
+      "created_time": "2023-03-13 12:22:00.708683+00",
+      "updated_time": "2023-03-13 12:22:00.708694+00",
+      "name": "Zomin tumani",
+      "region": "4",
+      "name_ru": "Зааминский район",
+      "name_uz": "Zomin tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "62",
+    "fields": {
+      "guid": "bb24f830-b252-44cf-bfda-4b761ad374ae",
+      "created_time": "2023-03-13 12:22:00.710072+00",
+      "updated_time": "2023-03-13 12:22:00.710082+00",
+      "name": "Bo’ston shahrchasi",
+      "region": "4",
+      "name_ru": "Бостанский городок",
+      "name_uz": "Bo’ston shahrchasi"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "63",
+    "fields": {
+      "guid": "1d37c21a-0df6-444e-832b-dbb43a345397",
+      "created_time": "2023-03-13 12:22:00.711233+00",
+      "updated_time": "2023-03-13 12:22:00.711246+00",
+      "name": "Chiroqchi tumani",
+      "region": "5",
+      "name_ru": "Чиракчинский район",
+      "name_uz": "Chiroqchi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "64",
+    "fields": {
+      "guid": "d5bf24fb-4c54-40cd-ba86-d4fba0da352b",
+      "created_time": "2023-03-13 12:22:00.712299+00",
+      "updated_time": "2023-03-13 12:22:00.712305+00",
+      "name": "Dehqonobod tumani",
+      "region": "5",
+      "name_ru": "Дехканабадский район",
+      "name_uz": "Dehqonobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "65",
+    "fields": {
+      "guid": "11ec1532-563d-422b-a99d-739151cb606e",
+      "created_time": "2023-03-13 12:22:00.713264+00",
+      "updated_time": "2023-03-13 12:22:00.713271+00",
+      "name": "G'uzor tumani",
+      "region": "5",
+      "name_ru": "Гузарский район",
+      "name_uz": "G'uzor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "66",
+    "fields": {
+      "guid": "582a06f8-0c23-4fe7-a4bf-fb6b41df0e3f",
+      "created_time": "2023-03-13 12:22:00.71423+00",
+      "updated_time": "2023-03-13 12:22:00.714236+00",
+      "name": "Kasbi tumani",
+      "region": "5",
+      "name_ru": "Касбийский район",
+      "name_uz": "Kasbi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "67",
+    "fields": {
+      "guid": "2f82f06b-3a87-403b-8130-553a2c2113ad",
+      "created_time": "2023-03-13 12:22:00.715192+00",
+      "updated_time": "2023-03-13 12:22:00.715199+00",
+      "name": "Kitob tumani",
+      "region": "5",
+      "name_ru": "Китабский район",
+      "name_uz": "Kitob tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "68",
+    "fields": {
+      "guid": "683b0473-8b43-42d7-89a7-67b1619567bc",
+      "created_time": "2023-03-13 12:22:00.716163+00",
+      "updated_time": "2023-03-13 12:22:00.716169+00",
+      "name": "Koson tumani",
+      "region": "5",
+      "name_ru": "Касанский район",
+      "name_uz": "Koson tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "69",
+    "fields": {
+      "guid": "d4ce7613-2a6b-49a1-99c9-0d40f4b15071",
+      "created_time": "2023-03-13 12:22:00.717125+00",
+      "updated_time": "2023-03-13 12:22:00.717131+00",
+      "name": "Mirishkor tumani",
+      "region": "5",
+      "name_ru": "Миришкорский район",
+      "name_uz": "Mirishkor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "70",
+    "fields": {
+      "guid": "ff9c7531-cd61-4adc-b70b-f3ddc8565738",
+      "created_time": "2023-03-13 12:22:00.717986+00",
+      "updated_time": "2023-03-13 12:22:00.717992+00",
+      "name": "Muborak tumani",
+      "region": "5",
+      "name_ru": "Мубарекский район",
+      "name_uz": "Muborak tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "71",
+    "fields": {
+      "guid": "52131fa4-2bee-4859-8ad7-3c3c6824fe22",
+      "created_time": "2023-03-13 12:22:00.719755+00",
+      "updated_time": "2023-03-13 12:22:00.719787+00",
+      "name": "Nishon tumani",
+      "region": "5",
+      "name_ru": "Нишанский район",
+      "name_uz": "Nishon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "72",
+    "fields": {
+      "guid": "15ed987e-fb52-4c59-aed4-19715b7179bf",
+      "created_time": "2023-03-13 12:22:00.722885+00",
+      "updated_time": "2023-03-13 12:22:00.722923+00",
+      "name": "Qamashi tumani",
+      "region": "5",
+      "name_ru": "Камашинский район",
+      "name_uz": "Qamashi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "73",
+    "fields": {
+      "guid": "c7f5bb49-d096-48e0-adc5-8b857f6a035a",
+      "created_time": "2023-03-13 12:22:00.725785+00",
+      "updated_time": "2023-03-13 12:22:00.725818+00",
+      "name": "Qarshi shahri",
+      "region": "5",
+      "name_ru": "город Карши",
+      "name_uz": "Qarshi shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "74",
+    "fields": {
+      "guid": "45c00d2f-5c95-498e-aece-fbd9617a6cb8",
+      "created_time": "2023-03-13 12:22:00.728488+00",
+      "updated_time": "2023-03-13 12:22:00.72852+00",
+      "name": "Qarshi tumani",
+      "region": "5",
+      "name_ru": "Каршинский район",
+      "name_uz": "Qarshi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "75",
+    "fields": {
+      "guid": "6e5bd78d-dd3b-42df-86be-d6d589da614c",
+      "created_time": "2023-03-13 12:22:00.731143+00",
+      "updated_time": "2023-03-13 12:22:00.731176+00",
+      "name": "Shaxrisabz shahri",
+      "region": "5",
+      "name_ru": "город Шахрисабз",
+      "name_uz": "Shaxrisabz shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "76",
+    "fields": {
+      "guid": "43707de8-ed16-460e-be0c-63aa1aa44cda",
+      "created_time": "2023-03-13 12:22:00.734296+00",
+      "updated_time": "2023-03-13 12:22:00.734335+00",
+      "name": "Shahrisabz tumani",
+      "region": "5",
+      "name_ru": "Шахрисабзский район",
+      "name_uz": "Shahrisabz tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "77",
+    "fields": {
+      "guid": "f212d5b0-f50b-415e-a776-df43f8d00b2c",
+      "created_time": "2023-03-13 12:22:00.737247+00",
+      "updated_time": "2023-03-13 12:22:00.73728+00",
+      "name": "Yakkabog' tumani",
+      "region": "5",
+      "name_ru": "Яккабагский район",
+      "name_uz": "Yakkabog' tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "78",
+    "fields": {
+      "guid": "679f285b-a713-4d39-88a8-b1889eb8ac81",
+      "created_time": "2023-03-13 12:22:00.739912+00",
+      "updated_time": "2023-03-13 12:22:00.739945+00",
+      "name": "Bog'ot tumani",
+      "region": "6",
+      "name_ru": "Багатский район",
+      "name_uz": "Bog'ot tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "79",
+    "fields": {
+      "guid": "75c648ed-cd3b-4aed-a233-f4843722f405",
+      "created_time": "2023-03-13 12:22:00.742564+00",
+      "updated_time": "2023-03-13 12:22:00.742596+00",
+      "name": "Gurlan tumani",
+      "region": "6",
+      "name_ru": "Гурленский район",
+      "name_uz": "Gurlan tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "80",
+    "fields": {
+      "guid": "8f436b8f-7d6d-4291-886e-e7eda930a105",
+      "created_time": "2023-03-13 12:22:00.745258+00",
+      "updated_time": "2023-03-13 12:22:00.74529+00",
+      "name": "Xazorasp tumani",
+      "region": "6",
+      "name_ru": "Хазараспский район",
+      "name_uz": "Xazorasp tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "81",
+    "fields": {
+      "guid": "377a2302-97b4-41ff-a815-8d54dcf4d6c7",
+      "created_time": "2023-03-13 12:22:00.747934+00",
+      "updated_time": "2023-03-13 12:22:00.747965+00",
+      "name": "Xiva shahri",
+      "region": "6",
+      "name_ru": "город Хива",
+      "name_uz": "Xiva shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "82",
+    "fields": {
+      "guid": "ce5a060d-913e-48d0-9ece-653029ad8f14",
+      "created_time": "2023-03-13 12:22:00.750661+00",
+      "updated_time": "2023-03-13 12:22:00.750694+00",
+      "name": "Xiva tumani",
+      "region": "6",
+      "name_ru": "Хивинский район",
+      "name_uz": "Xiva tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "83",
+    "fields": {
+      "guid": "920490ca-0239-4958-b4a8-ec76ad21dfa0",
+      "created_time": "2023-03-13 12:22:00.753275+00",
+      "updated_time": "2023-03-13 12:22:00.753307+00",
+      "name": "Xonqa tumani",
+      "region": "6",
+      "name_ru": "Ханкинский район",
+      "name_uz": "Xonqa tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "84",
+    "fields": {
+      "guid": "fb662e9a-62de-4cd0-a837-b26834235837",
+      "created_time": "2023-03-13 12:22:00.755948+00",
+      "updated_time": "2023-03-13 12:22:00.755981+00",
+      "name": "Qo'shko'pir tumani",
+      "region": "6",
+      "name_ru": "Кошкупырский район",
+      "name_uz": "Qo'shko'pir tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "85",
+    "fields": {
+      "guid": "ab930660-b0ff-4557-868a-7e3d8cf24c16",
+      "created_time": "2023-03-13 12:22:00.758577+00",
+      "updated_time": "2023-03-13 12:22:00.758609+00",
+      "name": "Shovot tumani",
+      "region": "6",
+      "name_ru": "Шаватский район",
+      "name_uz": "Shovot tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "86",
+    "fields": {
+      "guid": "f1bd4b70-f1ff-4061-a1e9-2a3e0946532f",
+      "created_time": "2023-03-13 12:22:00.761228+00",
+      "updated_time": "2023-03-13 12:22:00.76126+00",
+      "name": "Tuproqqal'a tumani",
+      "region": "6",
+      "name_ru": "Тупроккалинский район",
+      "name_uz": "Tuproqqal'a tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "87",
+    "fields": {
+      "guid": "49865ad5-a14e-4dde-b377-ad37fbbff5da",
+      "created_time": "2023-03-13 12:22:00.763954+00",
+      "updated_time": "2023-03-13 12:22:00.763988+00",
+      "name": "Urganch shahri",
+      "region": "6",
+      "name_ru": "город Ургенч",
+      "name_uz": "Urganch shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "88",
+    "fields": {
+      "guid": "d84991a8-e6a0-46e5-8528-6b7a25770577",
+      "created_time": "2023-03-13 12:22:00.766598+00",
+      "updated_time": "2023-03-13 12:22:00.766631+00",
+      "name": "Urganch tumani",
+      "region": "6",
+      "name_ru": "Ургенчский район",
+      "name_uz": "Urganch tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "89",
+    "fields": {
+      "guid": "d6e114ca-b2cd-4a9c-aaa4-53f68fcfd029",
+      "created_time": "2023-03-13 12:22:00.769271+00",
+      "updated_time": "2023-03-13 12:22:00.769304+00",
+      "name": "Yangiariq tumani",
+      "region": "6",
+      "name_ru": "Янгиарыкский район",
+      "name_uz": "Yangiariq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "90",
+    "fields": {
+      "guid": "339baadc-1297-457d-8224-f628e0ed78d8",
+      "created_time": "2023-03-13 12:22:00.771954+00",
+      "updated_time": "2023-03-13 12:22:00.771988+00",
+      "name": "Yangibozor tumani",
+      "region": "6",
+      "name_ru": "Янгибазарский район",
+      "name_uz": "Yangibozor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "91",
+    "fields": {
+      "guid": "32260239-c35a-4935-9511-a6df64fe5f55",
+      "created_time": "2023-03-13 12:22:00.774762+00",
+      "updated_time": "2023-03-13 12:22:00.774794+00",
+      "name": "Chortoq tumani",
+      "region": "7",
+      "name_ru": "Чартакский район",
+      "name_uz": "Chortoq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "92",
+    "fields": {
+      "guid": "e7c5d648-a8d9-4f02-b258-553bb41efdc4",
+      "created_time": "2023-03-13 12:22:00.777891+00",
+      "updated_time": "2023-03-13 12:22:00.777929+00",
+      "name": "Chust tumani",
+      "region": "7",
+      "name_ru": "Чустский район",
+      "name_uz": "Chust tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "93",
+    "fields": {
+      "guid": "e97b060a-1254-4ebd-876d-ebf76780a818",
+      "created_time": "2023-03-13 12:22:00.781155+00",
+      "updated_time": "2023-03-13 12:22:00.781187+00",
+      "name": "Kosonsoy tumani",
+      "region": "7",
+      "name_ru": "Касансайский район",
+      "name_uz": "Kosonsoy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "94",
+    "fields": {
+      "guid": "47931b84-cbc2-489e-8e22-02edf65000ce",
+      "created_time": "2023-03-13 12:22:00.784597+00",
+      "updated_time": "2023-03-13 12:22:00.784636+00",
+      "name": "Mingbuloq tumani",
+      "region": "7",
+      "name_ru": "Мингбулакский район",
+      "name_uz": "Mingbuloq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "95",
+    "fields": {
+      "guid": "a92bd9f0-a901-42a5-91e4-8dee76b41d4e",
+      "created_time": "2023-03-13 12:22:00.788268+00",
+      "updated_time": "2023-03-13 12:22:00.788306+00",
+      "name": "Namangan shahri",
+      "region": "7",
+      "name_ru": "город Наманган",
+      "name_uz": "Namangan shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "96",
+    "fields": {
+      "guid": "3e9b78d5-6d0f-4716-bd5f-11cafcb53aa6",
+      "created_time": "2023-03-13 12:22:00.791921+00",
+      "updated_time": "2023-03-13 12:22:00.791959+00",
+      "name": "Namangan tumani",
+      "region": "7",
+      "name_ru": "Наманганский район",
+      "name_uz": "Namangan tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "97",
+    "fields": {
+      "guid": "b1a2ed7f-b52c-4d94-9b4f-3cffd4dd4952",
+      "created_time": "2023-03-13 12:22:00.795153+00",
+      "updated_time": "2023-03-13 12:22:00.795192+00",
+      "name": "Norin tumani",
+      "region": "7",
+      "name_ru": "Нарынский район",
+      "name_uz": "Norin tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "98",
+    "fields": {
+      "guid": "988ed123-8ff4-4c1f-82ec-eef550cf349b",
+      "created_time": "2023-03-13 12:22:00.798359+00",
+      "updated_time": "2023-03-13 12:22:00.798396+00",
+      "name": "Pop tumani",
+      "region": "7",
+      "name_ru": "Папский район",
+      "name_uz": "Pop tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "99",
+    "fields": {
+      "guid": "dee4ac1c-21f6-4777-a40e-c860689730bb",
+      "created_time": "2023-03-13 12:22:00.801262+00",
+      "updated_time": "2023-03-13 12:22:00.801295+00",
+      "name": "Turaqo'rg'on tumani",
+      "region": "7",
+      "name_ru": "Туракурганский район",
+      "name_uz": "Turaqo'rg'on tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "100",
+    "fields": {
+      "guid": "0aadd512-4b98-4bd0-b7e6-f3d0ff02f20b",
+      "created_time": "2023-03-13 12:22:00.803987+00",
+      "updated_time": "2023-03-13 12:22:00.804021+00",
+      "name": "Uchqo'rg'on tumani",
+      "region": "7",
+      "name_ru": "Учкурганский район",
+      "name_uz": "Uchqo'rg'on tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "101",
+    "fields": {
+      "guid": "9eca779a-c121-4902-abd0-933b1c8657cb",
+      "created_time": "2023-03-13 12:22:00.806706+00",
+      "updated_time": "2023-03-13 12:22:00.806739+00",
+      "name": "Uychi tumani",
+      "region": "7",
+      "name_ru": "Уйчинский район",
+      "name_uz": "Uychi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "102",
+    "fields": {
+      "guid": "6b54865f-2a98-43e2-b818-51112b8fae47",
+      "created_time": "2023-03-13 12:22:00.809859+00",
+      "updated_time": "2023-03-13 12:22:00.809899+00",
+      "name": "Yangiqo'rg'on tumani",
+      "region": "7",
+      "name_ru": "Янгикурганский район",
+      "name_uz": "Yangiqo'rg'on tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "103",
+    "fields": {
+      "guid": "d6d89913-ef71-4fcf-8cfb-a88f9f420359",
+      "created_time": "2023-03-13 12:22:00.812808+00",
+      "updated_time": "2023-03-13 12:22:00.812841+00",
+      "name": "G'ozg'on shahri",
+      "region": "8",
+      "name_ru": "город Газган ",
+      "name_uz": "G'ozg'on shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "104",
+    "fields": {
+      "guid": "6d052578-413a-4d54-9451-f47cc44ecb00",
+      "created_time": "2023-03-13 12:22:00.81553+00",
+      "updated_time": "2023-03-13 12:22:00.815563+00",
+      "name": "Karmana tumani",
+      "region": "8",
+      "name_ru": "Карманинский район",
+      "name_uz": "Karmana tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "105",
+    "fields": {
+      "guid": "78db3c0b-aa68-40aa-8376-5d596a63ba38",
+      "created_time": "2023-03-13 12:22:00.818522+00",
+      "updated_time": "2023-03-13 12:22:00.818556+00",
+      "name": "Xatirchi tumani",
+      "region": "8",
+      "name_ru": "Хатырчинский район",
+      "name_uz": "Xatirchi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "106",
+    "fields": {
+      "guid": "b7f16f29-34f8-49e1-9d79-6fe0cb6368f0",
+      "created_time": "2023-03-13 12:22:00.821193+00",
+      "updated_time": "2023-03-13 12:22:00.821226+00",
+      "name": "Konimex tumani",
+      "region": "8",
+      "name_ru": "Канимехский район",
+      "name_uz": "Konimex tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "107",
+    "fields": {
+      "guid": "4b7e4d0a-7aa9-4192-a8a3-8c4dc72a7ed2",
+      "created_time": "2023-03-13 12:22:00.824+00",
+      "updated_time": "2023-03-13 12:22:00.824033+00",
+      "name": "Navbahor tumani",
+      "region": "8",
+      "name_ru": "Навбахорский район",
+      "name_uz": "Navbahor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "108",
+    "fields": {
+      "guid": "9648e959-e8f5-4815-b027-e05160c2c7d0",
+      "created_time": "2023-03-13 12:22:00.826768+00",
+      "updated_time": "2023-03-13 12:22:00.826801+00",
+      "name": "Navoiy shahri",
+      "region": "8",
+      "name_ru": "город Навои",
+      "name_uz": "Navoiy shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "109",
+    "fields": {
+      "guid": "4b0e0f7f-f09a-4953-b544-e52a846e834c",
+      "created_time": "2023-03-13 12:22:00.829421+00",
+      "updated_time": "2023-03-13 12:22:00.829454+00",
+      "name": "Nurota tumani",
+      "region": "8",
+      "name_ru": "Нуратинский район",
+      "name_uz": "Nurota tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "110",
+    "fields": {
+      "guid": "15570a24-53fa-42dd-8b27-5663470dc2dd",
+      "created_time": "2023-03-13 12:22:00.83205+00",
+      "updated_time": "2023-03-13 12:22:00.832083+00",
+      "name": "Qiziltepa tumani",
+      "region": "8",
+      "name_ru": "Кызылтепинский район",
+      "name_uz": "Qiziltepa tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "111",
+    "fields": {
+      "guid": "6981a84f-8839-4f22-b9a5-324c7487146d",
+      "created_time": "2023-03-13 12:22:00.8347+00",
+      "updated_time": "2023-03-13 12:22:00.834732+00",
+      "name": "Tomdi tumani",
+      "region": "8",
+      "name_ru": "Тамдынский район",
+      "name_uz": "Tomdi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "112",
+    "fields": {
+      "guid": "0d3e64c1-5659-478d-b743-721863f1f4a9",
+      "created_time": "2023-03-13 12:22:00.837425+00",
+      "updated_time": "2023-03-13 12:22:00.837458+00",
+      "name": "Uchquduq tumani",
+      "region": "8",
+      "name_ru": "Учкудукский район",
+      "name_uz": "Uchquduq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "113",
+    "fields": {
+      "guid": "2bc117a2-f663-4ed2-b5ff-86644af9eca8",
+      "created_time": "2023-03-13 12:22:00.840069+00",
+      "updated_time": "2023-03-13 12:22:00.840102+00",
+      "name": "Zarafshon shahri",
+      "region": "8",
+      "name_ru": "город Зарафшан",
+      "name_uz": "Zarafshon shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "114",
+    "fields": {
+      "guid": "24510fb5-45d4-4adf-b555-2d43e3526f25",
+      "created_time": "2023-03-13 12:22:00.842708+00",
+      "updated_time": "2023-03-13 12:22:00.842739+00",
+      "name": "Beruniy tumani",
+      "region": "9",
+      "name_ru": "Берунийский район",
+      "name_uz": "Beruniy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "115",
+    "fields": {
+      "guid": "6ce63d72-a847-470d-a2c9-2091f4210bc4",
+      "created_time": "2023-03-13 12:22:00.845339+00",
+      "updated_time": "2023-03-13 12:22:00.845371+00",
+      "name": "Chimboy tumani",
+      "region": "9",
+      "name_ru": "Чимбайский район",
+      "name_uz": "Chimboy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "116",
+    "fields": {
+      "guid": "78abcf7e-a568-44e6-adb4-663c9ef291de",
+      "created_time": "2023-03-13 12:22:00.848043+00",
+      "updated_time": "2023-03-13 12:22:00.848076+00",
+      "name": "Ellikqal'a tumani",
+      "region": "9",
+      "name_ru": "Элликкалинский район",
+      "name_uz": "Ellikqal'a tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "117",
+    "fields": {
+      "guid": "852b7766-0fb9-4944-9388-c78c7841f93e",
+      "created_time": "2023-03-13 12:22:00.850862+00",
+      "updated_time": "2023-03-13 12:22:00.850896+00",
+      "name": "Kegayli tumani",
+      "region": "9",
+      "name_ru": "Кегейлийский район",
+      "name_uz": "Kegayli tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "118",
+    "fields": {
+      "guid": "c2c8d5d3-a94c-45bb-9340-1e244a5311bb",
+      "created_time": "2023-03-13 12:22:00.853479+00",
+      "updated_time": "2023-03-13 12:22:00.853512+00",
+      "name": "Xojayli tumani",
+      "region": "9",
+      "name_ru": "Ходжейлийский район",
+      "name_uz": "Xojayli tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "119",
+    "fields": {
+      "guid": "4ee9daa1-d01a-46c6-b3d3-fc8c68bf02a8",
+      "created_time": "2023-03-13 12:22:00.856129+00",
+      "updated_time": "2023-03-13 12:22:00.856162+00",
+      "name": "Mo'ynoq tumani",
+      "region": "9",
+      "name_ru": "Муйнакский район",
+      "name_uz": "Mo'ynoq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "120",
+    "fields": {
+      "guid": "4a18b9da-881a-44ef-b2ae-0c41c9604b7f",
+      "created_time": "2023-03-13 12:22:00.858752+00",
+      "updated_time": "2023-03-13 12:22:00.858809+00",
+      "name": "Nukus shahri",
+      "region": "9",
+      "name_ru": "город Нукус",
+      "name_uz": "Nukus shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "121",
+    "fields": {
+      "guid": "1d3f0a5f-9bca-4cd4-8a0d-4b4a133b27f4",
+      "created_time": "2023-03-13 12:22:00.861396+00",
+      "updated_time": "2023-03-13 12:22:00.861429+00",
+      "name": "Nukus tumani",
+      "region": "9",
+      "name_ru": "Нукусский район",
+      "name_uz": "Nukus tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "122",
+    "fields": {
+      "guid": "4c658f16-24c2-4104-92f3-6a8b4b457730",
+      "created_time": "2023-03-13 12:22:00.864099+00",
+      "updated_time": "2023-03-13 12:22:00.864131+00",
+      "name": "Qarao'zak tumani",
+      "region": "9",
+      "name_ru": "Караузякский район",
+      "name_uz": "Qarao'zak tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "123",
+    "fields": {
+      "guid": "821f61f3-4cc6-49e5-8ce2-c450c40eac80",
+      "created_time": "2023-03-13 12:22:00.866814+00",
+      "updated_time": "2023-03-13 12:22:00.866846+00",
+      "name": "Qo'ng'irot tumani",
+      "region": "9",
+      "name_ru": "Кунградский район",
+      "name_uz": "Qo'ng'irot tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "124",
+    "fields": {
+      "guid": "ea3f4f1f-bb84-4623-afce-bb8085c20f0a",
+      "created_time": "2023-03-13 12:22:00.869475+00",
+      "updated_time": "2023-03-13 12:22:00.869508+00",
+      "name": "Qonliko'l tumani",
+      "region": "9",
+      "name_ru": "Канлыкульский район",
+      "name_uz": "Qonliko'l tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "125",
+    "fields": {
+      "guid": "4468fa92-c816-45b3-ab05-645b98e8755a",
+      "created_time": "2023-03-13 12:22:00.872228+00",
+      "updated_time": "2023-03-13 12:22:00.872261+00",
+      "name": "Shumanay tumani",
+      "region": "9",
+      "name_ru": "Шуманайский район",
+      "name_uz": "Shumanay tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "126",
+    "fields": {
+      "guid": "3561bacf-a854-4a24-ad91-036cfdc9b75a",
+      "created_time": "2023-03-13 12:22:00.87491+00",
+      "updated_time": "2023-03-13 12:22:00.874943+00",
+      "name": "Taxtako'pir tumani",
+      "region": "9",
+      "name_ru": "Тахтакупырский район",
+      "name_uz": "Taxtako'pir tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "127",
+    "fields": {
+      "guid": "7011919e-0cd1-4938-b697-68eb9302d536",
+      "created_time": "2023-03-13 12:22:00.877595+00",
+      "updated_time": "2023-03-13 12:22:00.877627+00",
+      "name": "To'rtko'l tumani",
+      "region": "9",
+      "name_ru": "Турткульский район",
+      "name_uz": "To'rtko'l tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "128",
+    "fields": {
+      "guid": "a1129f65-a73e-4723-bec2-d142cdafe238",
+      "created_time": "2023-03-13 12:22:00.880585+00",
+      "updated_time": "2023-03-13 12:22:00.880618+00",
+      "name": "Amudaryo tumani",
+      "region": "9",
+      "name_ru": "Aмударьинский район",
+      "name_uz": "Amudaryo tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "129",
+    "fields": {
+      "guid": "2b5d5ab5-571f-43dd-82f5-c4709c36f918",
+      "created_time": "2023-03-13 12:22:00.883268+00",
+      "updated_time": "2023-03-13 12:22:00.883301+00",
+      "name": "Bo'zatov tumani",
+      "region": "9",
+      "name_ru": "Бозатауский район",
+      "name_uz": "Bo'zatov tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "130",
+    "fields": {
+      "guid": "b013afff-5ccd-42b7-a295-e0a8380425bd",
+      "created_time": "2023-03-13 12:22:00.885947+00",
+      "updated_time": "2023-03-13 12:22:00.885979+00",
+      "name": "Taxiatosh tumani",
+      "region": "9",
+      "name_ru": "Тахиаташский район",
+      "name_uz": "Taxiatosh tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "131",
+    "fields": {
+      "guid": "ab8fc22c-a873-49d9-81cc-6b5127e1227f",
+      "created_time": "2023-03-13 12:22:00.888601+00",
+      "updated_time": "2023-03-13 12:22:00.888634+00",
+      "name": "Bulung'ur tumani",
+      "region": "10",
+      "name_ru": "Булунгурский район",
+      "name_uz": "Bulung'ur tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "132",
+    "fields": {
+      "guid": "d49bda8d-336c-417b-803d-532a8aa43207",
+      "created_time": "2023-03-13 12:22:00.891283+00",
+      "updated_time": "2023-03-13 12:22:00.891316+00",
+      "name": "Ishtixon tumani",
+      "region": "10",
+      "name_ru": "Иштыханский район",
+      "name_uz": "Ishtixon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "133",
+    "fields": {
+      "guid": "a863bd47-7717-4602-9d47-16839d057050",
+      "created_time": "2023-03-13 12:22:00.894113+00",
+      "updated_time": "2023-03-13 12:22:00.894144+00",
+      "name": "Jomboy tumani",
+      "region": "10",
+      "name_ru": "Джамбайский район",
+      "name_uz": "Jomboy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "134",
+    "fields": {
+      "guid": "3f9bf3b8-f03a-444f-8237-09f3fdd3fa44",
+      "created_time": "2023-03-13 12:22:00.896805+00",
+      "updated_time": "2023-03-13 12:22:00.896838+00",
+      "name": "Kattaqo'rg'on shahri",
+      "region": "10",
+      "name_ru": "город Каттакурган",
+      "name_uz": "Kattaqo'rg'on shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "135",
+    "fields": {
+      "guid": "8f5b3e16-bd4b-4c9e-aa2d-01664985684a",
+      "created_time": "2023-03-13 12:22:00.899536+00",
+      "updated_time": "2023-03-13 12:22:00.899569+00",
+      "name": "Kattaqo'rg'on tumani",
+      "region": "10",
+      "name_ru": "Каттакурганский район",
+      "name_uz": "Kattaqo'rg'on tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "136",
+    "fields": {
+      "guid": "a5348d14-335b-463d-b9d4-8158e862c10f",
+      "created_time": "2023-03-13 12:22:00.902223+00",
+      "updated_time": "2023-03-13 12:22:00.902257+00",
+      "name": "Narpay tumani",
+      "region": "10",
+      "name_ru": "Нарпайский район",
+      "name_uz": "Narpay tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "137",
+    "fields": {
+      "guid": "fb15b70b-d3c9-4d50-b49f-10c8baa5e6ab",
+      "created_time": "2023-03-13 12:22:00.904877+00",
+      "updated_time": "2023-03-13 12:22:00.90491+00",
+      "name": "Nurobod tumani",
+      "region": "10",
+      "name_ru": "Нурабадский район",
+      "name_uz": "Nurobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "138",
+    "fields": {
+      "guid": "c25ba3ab-a642-47d9-b270-a044804c09a5",
+      "created_time": "2023-03-13 12:22:00.907518+00",
+      "updated_time": "2023-03-13 12:22:00.90755+00",
+      "name": "Oqdaryo tumani",
+      "region": "10",
+      "name_ru": "Aкдарьинский район",
+      "name_uz": "Oqdaryo tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "139",
+    "fields": {
+      "guid": "16e0941e-4728-420d-b111-9bae29f2d781",
+      "created_time": "2023-03-13 12:22:00.910147+00",
+      "updated_time": "2023-03-13 12:22:00.91018+00",
+      "name": "Paxtachi tumani",
+      "region": "10",
+      "name_ru": "Пахтачийский район",
+      "name_uz": "Paxtachi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "140",
+    "fields": {
+      "guid": "aace0c18-4350-46b7-a975-3a4ce20ad2df",
+      "created_time": "2023-03-13 12:22:00.913472+00",
+      "updated_time": "2023-03-13 12:22:00.913519+00",
+      "name": "Pastdarg'om tumani",
+      "region": "10",
+      "name_ru": "Пастдаргомский район",
+      "name_uz": "Pastdarg'om tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "141",
+    "fields": {
+      "guid": "29a5ea27-14ff-454a-9c1b-2dce126f2e58",
+      "created_time": "2023-03-13 12:22:00.916899+00",
+      "updated_time": "2023-03-13 12:22:00.916931+00",
+      "name": "Payariq tumani",
+      "region": "10",
+      "name_ru": "Пайарыкский район",
+      "name_uz": "Payariq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "142",
+    "fields": {
+      "guid": "8f7059f8-18f5-47ad-aaab-d1226b0d221b",
+      "created_time": "2023-03-13 12:22:00.919942+00",
+      "updated_time": "2023-03-13 12:22:00.919975+00",
+      "name": "Qo'shrabod tumani",
+      "region": "10",
+      "name_ru": "Кошрабадский район",
+      "name_uz": "Qo'shrabod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "143",
+    "fields": {
+      "guid": "78251971-1ee4-42a9-a2c6-1a9a82af912a",
+      "created_time": "2023-03-13 12:22:00.923012+00",
+      "updated_time": "2023-03-13 12:22:00.923045+00",
+      "name": "Samarqand shahri",
+      "region": "10",
+      "name_ru": "город Самарканд",
+      "name_uz": "Samarqand shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "144",
+    "fields": {
+      "guid": "09209579-9704-456d-9c4b-ebccc458bf80",
+      "created_time": "2023-03-13 12:22:00.925694+00",
+      "updated_time": "2023-03-13 12:22:00.925727+00",
+      "name": "Samarqand tumani",
+      "region": "10",
+      "name_ru": "Самаркандский район",
+      "name_uz": "Samarqand tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "145",
+    "fields": {
+      "guid": "386fc79a-558d-4bb2-9d82-24701247c695",
+      "created_time": "2023-03-13 12:22:00.928356+00",
+      "updated_time": "2023-03-13 12:22:00.928389+00",
+      "name": "Toyloq tumani",
+      "region": "10",
+      "name_ru": "Тайлакский район",
+      "name_uz": "Toyloq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "146",
+    "fields": {
+      "guid": "63f897a0-267b-4c57-aa26-56306a5135e2",
+      "created_time": "2023-03-13 12:22:00.931099+00",
+      "updated_time": "2023-03-13 12:22:00.931131+00",
+      "name": "Urgut tumani",
+      "region": "10",
+      "name_ru": "Ургутский район",
+      "name_uz": "Urgut tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "147",
+    "fields": {
+      "guid": "efa15a57-0b56-46e2-9483-42adac4d905c",
+      "created_time": "2023-03-13 12:22:00.93397+00",
+      "updated_time": "2023-03-13 12:22:00.934004+00",
+      "name": "Boysun tumani",
+      "region": "11",
+      "name_ru": "Байсунский район",
+      "name_uz": "Boysun tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "148",
+    "fields": {
+      "guid": "6e527fdc-e167-45f6-b168-5e191dcf4d33",
+      "created_time": "2023-03-13 12:22:00.936708+00",
+      "updated_time": "2023-03-13 12:22:00.936741+00",
+      "name": "Denov tumani",
+      "region": "11",
+      "name_ru": "Денауский район",
+      "name_uz": "Denov tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "149",
+    "fields": {
+      "guid": "3b216575-2134-4d09-ab39-49d4bc6213a5",
+      "created_time": "2023-03-13 12:22:00.93957+00",
+      "updated_time": "2023-03-13 12:22:00.939606+00",
+      "name": "Jarqo'rg'on tumani",
+      "region": "11",
+      "name_ru": "Джаркурганский район",
+      "name_uz": "Jarqo'rg'on tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "150",
+    "fields": {
+      "guid": "8ac7a623-7ebc-40bd-9e91-de2d3eb1fa08",
+      "created_time": "2023-03-13 12:22:00.942503+00",
+      "updated_time": "2023-03-13 12:22:00.942536+00",
+      "name": "Muzrobod tumani",
+      "region": "11",
+      "name_ru": "Музрабадский район",
+      "name_uz": "Muzrobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "151",
+    "fields": {
+      "guid": "dfc723b5-d15f-4318-af25-3670eb9b7d17",
+      "created_time": "2023-03-13 12:22:00.945606+00",
+      "updated_time": "2023-03-13 12:22:00.945643+00",
+      "name": "Oltinsoy tumani",
+      "region": "11",
+      "name_ru": "Aлтынсайский район",
+      "name_uz": "Oltinsoy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "152",
+    "fields": {
+      "guid": "5f93beb1-594a-4e80-80f2-11882d447144",
+      "created_time": "2023-03-13 12:22:00.948837+00",
+      "updated_time": "2023-03-13 12:22:00.948876+00",
+      "name": "Qiziriq tumani",
+      "region": "11",
+      "name_ru": "Кизирикский район",
+      "name_uz": "Qiziriq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "153",
+    "fields": {
+      "guid": "bb19811f-5fa9-4343-964c-2c2351d8ab43",
+      "created_time": "2023-03-13 12:22:00.951745+00",
+      "updated_time": "2023-03-13 12:22:00.951779+00",
+      "name": "Qumqo'rg'on tumani",
+      "region": "11",
+      "name_ru": "Кумкурганский район",
+      "name_uz": "Qumqo'rg'on tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "154",
+    "fields": {
+      "guid": "fe7cba46-c09a-4bb9-b46c-0f3941d41fc1",
+      "created_time": "2023-03-13 12:22:00.954479+00",
+      "updated_time": "2023-03-13 12:22:00.95451+00",
+      "name": "Sariosiyo tumani",
+      "region": "11",
+      "name_ru": "Сариасийский район",
+      "name_uz": "Sariosiyo tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "155",
+    "fields": {
+      "guid": "290d7808-5201-4dbb-a60c-6d571f2c8018",
+      "created_time": "2023-03-13 12:22:00.957211+00",
+      "updated_time": "2023-03-13 12:22:00.957244+00",
+      "name": "Sherobod tumani",
+      "region": "11",
+      "name_ru": "Шерабадский район",
+      "name_uz": "Sherobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "156",
+    "fields": {
+      "guid": "5d381064-5238-45b5-9088-3152f61e1032",
+      "created_time": "2023-03-13 12:22:00.959895+00",
+      "updated_time": "2023-03-13 12:22:00.959928+00",
+      "name": "Sho'rchi tumani",
+      "region": "11",
+      "name_ru": "Шурчинский район",
+      "name_uz": "Sho'rchi tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "157",
+    "fields": {
+      "guid": "5b689b4f-17ff-40ac-92e2-6e8a73c2ac68",
+      "created_time": "2023-03-13 12:22:00.962538+00",
+      "updated_time": "2023-03-13 12:22:00.962571+00",
+      "name": "Termiz shahri",
+      "region": "11",
+      "name_ru": "город Термез",
+      "name_uz": "Termiz shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "158",
+    "fields": {
+      "guid": "402d36bb-8873-44e5-abaa-5f8edb32b8ff",
+      "created_time": "2023-03-13 12:22:00.965172+00",
+      "updated_time": "2023-03-13 12:22:00.965204+00",
+      "name": "Termiz tumani",
+      "region": "11",
+      "name_ru": "Термезский район",
+      "name_uz": "Termiz tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "159",
+    "fields": {
+      "guid": "aae314be-c152-4edd-892a-b5faffa80fcf",
+      "created_time": "2023-03-13 12:22:00.967901+00",
+      "updated_time": "2023-03-13 12:22:00.967933+00",
+      "name": "Uzun tumani",
+      "region": "11",
+      "name_ru": "Узунский район",
+      "name_uz": "Uzun tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "160",
+    "fields": {
+      "guid": "979db50f-0ccf-47b0-a17c-33f9c9826219",
+      "created_time": "2023-03-13 12:22:00.970555+00",
+      "updated_time": "2023-03-13 12:22:00.970587+00",
+      "name": "Angor tumani",
+      "region": "11",
+      "name_ru": "Aнгорский район",
+      "name_uz": "Angor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "161",
+    "fields": {
+      "guid": "22fd77c8-9c04-4ef0-8a89-3517765e021d",
+      "created_time": "2023-03-13 12:22:00.973252+00",
+      "updated_time": "2023-03-13 12:22:00.973285+00",
+      "name": "Bandixon tumani",
+      "region": "11",
+      "name_ru": "Бандиханский район",
+      "name_uz": "Bandixon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "162",
+    "fields": {
+      "guid": "8351d82e-6bae-4bf5-8e8b-f367f9926bd2",
+      "created_time": "2023-03-13 12:22:00.9759+00",
+      "updated_time": "2023-03-13 12:22:00.975933+00",
+      "name": "Boyovut tumani",
+      "region": "12",
+      "name_ru": "Баяутский район",
+      "name_uz": "Boyovut tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "163",
+    "fields": {
+      "guid": "9a33acc5-26e0-42f7-aaa4-41c21c6e6fc0",
+      "created_time": "2023-03-13 12:22:00.978525+00",
+      "updated_time": "2023-03-13 12:22:00.978558+00",
+      "name": "Guliston shahri",
+      "region": "12",
+      "name_ru": "город Гулистан",
+      "name_uz": "Guliston shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "164",
+    "fields": {
+      "guid": "1c76ef2b-a79f-4395-ac0a-1137cd7f5d75",
+      "created_time": "2023-03-13 12:22:00.981189+00",
+      "updated_time": "2023-03-13 12:22:00.981221+00",
+      "name": "Guliston tumani",
+      "region": "12",
+      "name_ru": "Гулистанский район",
+      "name_uz": "Guliston tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "165",
+    "fields": {
+      "guid": "8f1ebb62-c691-48ed-9809-3c0319ef2491",
+      "created_time": "2023-03-13 12:22:00.983859+00",
+      "updated_time": "2023-03-13 12:22:00.983891+00",
+      "name": "Xovos tumani",
+      "region": "12",
+      "name_ru": "Хавастский район",
+      "name_uz": "Xovos tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "166",
+    "fields": {
+      "guid": "fd62c8f7-f9bb-4381-97a2-f338f93961f3",
+      "created_time": "2023-03-13 12:22:00.986513+00",
+      "updated_time": "2023-03-13 12:22:00.986545+00",
+      "name": "Mirzaobod tumani",
+      "region": "12",
+      "name_ru": "Мирзаабадский район",
+      "name_uz": "Mirzaobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "167",
+    "fields": {
+      "guid": "794ee23b-5ee4-4b2f-b302-9dafa0c19f47",
+      "created_time": "2023-03-13 12:22:00.989171+00",
+      "updated_time": "2023-03-13 12:22:00.989202+00",
+      "name": "Oqoltin tumani",
+      "region": "12",
+      "name_ru": "Aкалтынский район",
+      "name_uz": "Oqoltin tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "168",
+    "fields": {
+      "guid": "59399eca-c4f5-4442-859c-a1e7d8b94365",
+      "created_time": "2023-03-13 12:22:00.991786+00",
+      "updated_time": "2023-03-13 12:22:00.991819+00",
+      "name": "Sardoba tumani",
+      "region": "12",
+      "name_ru": "Сардобинский район",
+      "name_uz": "Sardoba tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "169",
+    "fields": {
+      "guid": "b63167c6-75fb-49d2-8e56-a1b719162906",
+      "created_time": "2023-03-13 12:22:00.994451+00",
+      "updated_time": "2023-03-13 12:22:00.994484+00",
+      "name": "Sayxunobod tumani",
+      "region": "12",
+      "name_ru": "Сайхунабадский район",
+      "name_uz": "Sayxunobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "170",
+    "fields": {
+      "guid": "669fcffb-b8d2-4e20-a8a0-f30d4404d0b2",
+      "created_time": "2023-03-13 12:22:00.997167+00",
+      "updated_time": "2023-03-13 12:22:00.9972+00",
+      "name": "Shirin shahri",
+      "region": "12",
+      "name_ru": "город Ширин",
+      "name_uz": "Shirin shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "171",
+    "fields": {
+      "guid": "2521733e-3c7a-4257-9b0a-68e6d08f5fbc",
+      "created_time": "2023-03-13 12:22:00.999843+00",
+      "updated_time": "2023-03-13 12:22:00.999876+00",
+      "name": "Sirdaryo tumani",
+      "region": "12",
+      "name_ru": "Сырдарьинский район",
+      "name_uz": "Sirdaryo tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "172",
+    "fields": {
+      "guid": "f95fc4e1-249e-48cb-ad14-73c928a9cd03",
+      "created_time": "2023-03-13 12:22:01.00251+00",
+      "updated_time": "2023-03-13 12:22:01.002542+00",
+      "name": "Yangiyer shahri",
+      "region": "12",
+      "name_ru": "город Янгиер",
+      "name_uz": "Yangiyer shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "173",
+    "fields": {
+      "guid": "8f7a5c93-934d-4c1d-b616-df1a27c7bc29",
+      "created_time": "2023-03-13 12:22:01.005255+00",
+      "updated_time": "2023-03-13 12:22:01.005287+00",
+      "name": "Bektemir tumani",
+      "region": "13",
+      "name_ru": "Бектемирский район",
+      "name_uz": "Bektemir tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "174",
+    "fields": {
+      "guid": "51e005a2-8f01-4866-95f5-00509aa044c7",
+      "created_time": "2023-03-13 12:22:01.007916+00",
+      "updated_time": "2023-03-13 12:22:01.007949+00",
+      "name": "Chilonzor tumani",
+      "region": "13",
+      "name_ru": "Чиланзарский район",
+      "name_uz": "Chilonzor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "175",
+    "fields": {
+      "guid": "cab84f85-6447-45eb-848c-eec61078b2d7",
+      "created_time": "2023-03-13 12:22:01.010584+00",
+      "updated_time": "2023-03-13 12:22:01.010617+00",
+      "name": "Mirobod tumani",
+      "region": "13",
+      "name_ru": "Мирабадский район",
+      "name_uz": "Mirobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "176",
+    "fields": {
+      "guid": "098e2bc9-771f-4877-b522-b577e557b8d9",
+      "created_time": "2023-03-13 12:22:01.013279+00",
+      "updated_time": "2023-03-13 12:22:01.013312+00",
+      "name": "Olmazor tumani",
+      "region": "13",
+      "name_ru": "Aлмазарский район",
+      "name_uz": "Olmazor tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "177",
+    "fields": {
+      "guid": "5d8b7814-9930-4c06-9b84-ff8eba20709f",
+      "created_time": "2023-03-13 12:22:01.016394+00",
+      "updated_time": "2023-03-13 12:22:01.016431+00",
+      "name": "Sergeli tumani",
+      "region": "13",
+      "name_ru": "Сергелинский район",
+      "name_uz": "Sergeli tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "178",
+    "fields": {
+      "guid": "5c77578d-b252-4c12-ae0e-465f84f4e13c",
+      "created_time": "2023-03-13 12:22:01.019542+00",
+      "updated_time": "2023-03-13 12:22:01.01958+00",
+      "name": "Shayxontohur tumani",
+      "region": "13",
+      "name_ru": "Шайхантахурский район",
+      "name_uz": "Shayxontohur tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "179",
+    "fields": {
+      "guid": "72799e2c-bd44-47a5-a5dc-ecf32af99965",
+      "created_time": "2023-03-13 12:22:01.022799+00",
+      "updated_time": "2023-03-13 12:22:01.022836+00",
+      "name": "Uchtepa tumani",
+      "region": "13",
+      "name_ru": "Учтепинский район",
+      "name_uz": "Uchtepa tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "180",
+    "fields": {
+      "guid": "cc23d4ab-0aa3-4db4-abfe-7dca6d430760",
+      "created_time": "2023-03-13 12:22:01.025864+00",
+      "updated_time": "2023-03-13 12:22:01.025902+00",
+      "name": "Yakkasaroy tumani",
+      "region": "13",
+      "name_ru": "Яккасарайский район",
+      "name_uz": "Yakkasaroy tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "181",
+    "fields": {
+      "guid": "7fc84bab-4ff7-47f1-8c68-a47683090254",
+      "created_time": "2023-03-13 12:22:01.029104+00",
+      "updated_time": "2023-03-13 12:22:01.029142+00",
+      "name": "Yangihayot tumani",
+      "region": "13",
+      "name_ru": "Янгихаятский район",
+      "name_uz": "Yangihayot tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "182",
+    "fields": {
+      "guid": "5e8f324d-c071-4fb4-8f31-ea0e389519db",
+      "created_time": "2023-03-13 12:22:01.031986+00",
+      "updated_time": "2023-03-13 12:22:01.032018+00",
+      "name": "Yashnobod tumani",
+      "region": "13",
+      "name_ru": "Яшнабадский район",
+      "name_uz": "Yashnobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "183",
+    "fields": {
+      "guid": "acb36642-c1ea-442d-9e9c-d7f47fe1d9b3",
+      "created_time": "2023-03-13 12:22:01.03472+00",
+      "updated_time": "2023-03-13 12:22:01.034753+00",
+      "name": "Yunusobod tumani",
+      "region": "13",
+      "name_ru": "Юнусабадский район",
+      "name_uz": "Yunusobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "184",
+    "fields": {
+      "guid": "0ca8648d-0511-4aa2-aab0-a00a40755935",
+      "created_time": "2023-03-13 12:22:01.037417+00",
+      "updated_time": "2023-03-13 12:22:01.03745+00",
+      "name": "Мirzo Ulug'bek tumani",
+      "region": "13",
+      "name_ru": "Мирзо Улуғбекский район",
+      "name_uz": "Мirzo Ulug'bek tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "185",
+    "fields": {
+      "guid": "e9d30fc7-85fb-4ad4-99aa-77d526e23889",
+      "created_time": "2023-03-13 12:22:01.040104+00",
+      "updated_time": "2023-03-13 12:22:01.040138+00",
+      "name": "Bekobod shahri",
+      "region": "14",
+      "name_ru": "город Бекабад",
+      "name_uz": "Bekobod shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "186",
+    "fields": {
+      "guid": "254fba94-74ff-4e96-a4a3-af1cbcabc47b",
+      "created_time": "2023-03-13 12:22:01.043185+00",
+      "updated_time": "2023-03-13 12:22:01.043223+00",
+      "name": "Bekobod tumani",
+      "region": "14",
+      "name_ru": "Бекабадский район",
+      "name_uz": "Bekobod tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "187",
+    "fields": {
+      "guid": "31a498e2-97d1-422f-a4a3-74b119734b3c",
+      "created_time": "2023-03-13 12:22:01.046469+00",
+      "updated_time": "2023-03-13 12:22:01.046507+00",
+      "name": "Bo'ka tumani",
+      "region": "14",
+      "name_ru": "Букинский район",
+      "name_uz": "Bo'ka tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "188",
+    "fields": {
+      "guid": "35f4c2df-2977-4405-ae85-f1db5f85a236",
+      "created_time": "2023-03-13 12:22:01.049961+00",
+      "updated_time": "2023-03-13 12:22:01.05+00",
+      "name": "Bo'stonliq tumani",
+      "region": "14",
+      "name_ru": "Бостанлыкский район",
+      "name_uz": "Bo'stonliq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "189",
+    "fields": {
+      "guid": "3d2a769b-ba95-41e0-868f-c72e60501ba1",
+      "created_time": "2023-03-13 12:22:01.053211+00",
+      "updated_time": "2023-03-13 12:22:01.053243+00",
+      "name": "Chinoz tumani",
+      "region": "14",
+      "name_ru": "Чиназский район",
+      "name_uz": "Chinoz tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "190",
+    "fields": {
+      "guid": "285dd9af-f027-4a4d-aab5-33ec46101bd4",
+      "created_time": "2023-03-13 12:22:01.05657+00",
+      "updated_time": "2023-03-13 12:22:01.056609+00",
+      "name": "Chirchiq shahri",
+      "region": "14",
+      "name_ru": "город Чирчик",
+      "name_uz": "Chirchiq shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "191",
+    "fields": {
+      "guid": "79d366bb-b3ea-4500-861b-c0f10693d662",
+      "created_time": "2023-03-13 12:22:01.05982+00",
+      "updated_time": "2023-03-13 12:22:01.059853+00",
+      "name": "Nurafshon shahri",
+      "region": "14",
+      "name_ru": "город Нурафшон ",
+      "name_uz": "Nurafshon shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "192",
+    "fields": {
+      "guid": "437dacef-6c40-4ad8-a14d-40957f4962b9",
+      "created_time": "2023-03-13 12:22:01.062581+00",
+      "updated_time": "2023-03-13 12:22:01.062614+00",
+      "name": "Ohangaron shahri",
+      "region": "14",
+      "name_ru": "Город Aхангаран",
+      "name_uz": "Ohangaron shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "193",
+    "fields": {
+      "guid": "a3cdb4cf-3d95-469a-bd80-e50776f6db02",
+      "created_time": "2023-03-13 12:22:01.065252+00",
+      "updated_time": "2023-03-13 12:22:01.065284+00",
+      "name": "Ohangaron tumani",
+      "region": "14",
+      "name_ru": "Aхангаранский район",
+      "name_uz": "Ohangaron tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "194",
+    "fields": {
+      "guid": "8a14339c-1eba-4c75-8294-54f7e7f86ac0",
+      "created_time": "2023-03-13 12:22:01.067965+00",
+      "updated_time": "2023-03-13 12:22:01.067998+00",
+      "name": "Olmaliq shahri",
+      "region": "14",
+      "name_ru": "город Aлмалык",
+      "name_uz": "Olmaliq shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "195",
+    "fields": {
+      "guid": "26ee9f64-348d-41ef-ae2b-75df62706f31",
+      "created_time": "2023-03-13 12:22:01.070625+00",
+      "updated_time": "2023-03-13 12:22:01.070658+00",
+      "name": "Oqqo'rqon tumani",
+      "region": "14",
+      "name_ru": "Aккурганский район",
+      "name_uz": "Oqqo'rqon tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "196",
+    "fields": {
+      "guid": "a1278fa0-3c98-4128-ab9b-c1aba24e226d",
+      "created_time": "2023-03-13 12:22:01.07327+00",
+      "updated_time": "2023-03-13 12:22:01.073303+00",
+      "name": "O'rtachirchiq tumani",
+      "region": "14",
+      "name_ru": "Уртачирчикский район",
+      "name_uz": "O'rtachirchiq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "197",
+    "fields": {
+      "guid": "4af1404f-3d8e-4e72-81ed-314235dc70fa",
+      "created_time": "2023-03-13 12:22:01.076118+00",
+      "updated_time": "2023-03-13 12:22:01.076154+00",
+      "name": "Parkent tumani",
+      "region": "14",
+      "name_ru": "Паркентский район",
+      "name_uz": "Parkent tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "198",
+    "fields": {
+      "guid": "bc336b00-c3cc-4a98-88c6-4382087e0a3d",
+      "created_time": "2023-03-13 12:22:01.079333+00",
+      "updated_time": "2023-03-13 12:22:01.079371+00",
+      "name": "Piskent tumani",
+      "region": "14",
+      "name_ru": "Пскентский район",
+      "name_uz": "Piskent tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "199",
+    "fields": {
+      "guid": "cf68542a-9702-4a5d-bcc6-6e5b452e5d01",
+      "created_time": "2023-03-13 12:22:01.082604+00",
+      "updated_time": "2023-03-13 12:22:01.082644+00",
+      "name": "Qibray tumani",
+      "region": "14",
+      "name_ru": "Кибрайский район",
+      "name_uz": "Qibray tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "200",
+    "fields": {
+      "guid": "a9e7ba48-70b6-40a6-bef5-b4d53e219763",
+      "created_time": "2023-03-13 12:22:01.085548+00",
+      "updated_time": "2023-03-13 12:22:01.085582+00",
+      "name": "Quyichirchiq tumani",
+      "region": "14",
+      "name_ru": "Куйичирчикский район",
+      "name_uz": "Quyichirchiq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "201",
+    "fields": {
+      "guid": "9eb57ac1-87e1-49c4-bd98-aa9c58c3e25b",
+      "created_time": "2023-03-13 12:22:01.088305+00",
+      "updated_time": "2023-03-13 12:22:01.088338+00",
+      "name": "Yangiyo'l shaxri",
+      "region": "14",
+      "name_ru": "город Янгийул",
+      "name_uz": "Yangiyo'l shaxri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "202",
+    "fields": {
+      "guid": "d96e9ea6-2e01-4a8c-9eda-f80a46f4b14b",
+      "created_time": "2023-03-13 12:22:01.091169+00",
+      "updated_time": "2023-03-13 12:22:01.091202+00",
+      "name": "Yangiyo'l tumani",
+      "region": "14",
+      "name_ru": "Янгиюльский район",
+      "name_uz": "Yangiyo'l tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "203",
+    "fields": {
+      "guid": "3335ca9b-27e0-4958-8768-d7db203e1b36",
+      "created_time": "2023-03-13 12:22:01.093867+00",
+      "updated_time": "2023-03-13 12:22:01.093899+00",
+      "name": "Yuqorichirchiq tumani",
+      "region": "14",
+      "name_ru": "Юкоричирчикский район",
+      "name_uz": "Yuqorichirchiq tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "204",
+    "fields": {
+      "guid": "8dfef29b-b0ba-40e9-9481-13756e83988b",
+      "created_time": "2023-03-13 12:22:01.096543+00",
+      "updated_time": "2023-03-13 12:22:01.096576+00",
+      "name": "Zangiota tumani",
+      "region": "14",
+      "name_ru": "Зангиатинский район",
+      "name_uz": "Zangiota tumani"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "205",
+    "fields": {
+      "guid": "6fa2970b-ef9b-436f-8fa1-d21c60a4c647",
+      "created_time": "2023-03-13 12:22:01.099214+00",
+      "updated_time": "2023-03-13 12:22:01.099247+00",
+      "name": "Angren shahri",
+      "region": "14",
+      "name_ru": "город Aнгрен",
+      "name_uz": "Angren shahri"
+    }
+  },
+  {
+    "model": "common.District",
+    "pk": "206",
+    "fields": {
+      "guid": "0b4e5d5d-38b9-4bbb-8b97-b9587cb67380",
+      "created_time": "2023-03-13 12:22:01.101911+00",
+      "updated_time": "2023-03-13 12:22:01.101944+00",
+      "name": "Toshkent tumani",
+      "region": "14",
+      "name_ru": "Ташкентский район",
+      "name_uz": "Toshkent tumani"
+    }
+  }
+]

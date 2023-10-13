@@ -1,0 +1,170 @@
+[
+    {
+        "model": "common.Region",
+        "pk": "1",
+        "fields": {
+            "guid": "5aba4e34-7559-4ed4-8ad4-48ca25ff56b8",
+            "created_time": "2023-03-13 12:15:48.471561+00",
+            "updated_time": "2023-03-13 12:15:48.471576+00",
+            "name": "Andijon viloyati",
+            "name_ru": "Андижанская область",
+            "name_uz": "Andijon viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "2",
+        "fields": {
+            "guid": "483782dc-fc67-47f3-8a66-7d992c17509a",
+            "created_time": "2023-03-13 12:15:48.473855+00",
+            "updated_time": "2023-03-13 12:15:48.473863+00",
+            "name": "Buxoro viloyati",
+            "name_ru": "Бухарская область",
+            "name_uz": "Buxoro viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "3",
+        "fields": {
+            "guid": "afd6dd38-4a5b-4368-b9e5-791d1db46cef",
+            "created_time": "2023-03-13 12:15:48.474993+00",
+            "updated_time": "2023-03-13 12:15:48.475+00",
+            "name": "Farg'ona viloyati",
+            "name_ru": "Ферганская область",
+            "name_uz": "Farg`ona viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "4",
+        "fields": {
+            "guid": "37977916-66b9-4b80-852b-05df17ce838b",
+            "created_time": "2023-03-13 12:15:48.476057+00",
+            "updated_time": "2023-03-13 12:15:48.476065+00",
+            "name": "Jizzax viloyati",
+            "name_ru": "Джизакская область",
+            "name_uz": "Jizzax viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "5",
+        "fields": {
+            "guid": "e49c51c5-261d-4fa8-beaf-994ac10842a6",
+            "created_time": "2023-03-13 12:15:48.477005+00",
+            "updated_time": "2023-03-13 12:15:48.477012+00",
+            "name": "Qashqadaryo viloyati",
+            "name_ru": "Кашкадарьинская область",
+            "name_uz": "Qashqadaryo viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "6",
+        "fields": {
+            "guid": "de7d9476-21f6-4887-8e2e-a5743a4d3d02",
+            "created_time": "2023-03-13 12:15:48.478114+00",
+            "updated_time": "2023-03-13 12:15:48.478121+00",
+            "name": "Xorazm viloyati",
+            "name_ru": "Хорезмская область",
+            "name_uz": "Xorazm viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "7",
+        "fields": {
+            "guid": "9436ad85-3238-432e-a505-5afefed48a51",
+            "created_time": "2023-03-13 12:15:48.479106+00",
+            "updated_time": "2023-03-13 12:15:48.479113+00",
+            "name": "Namangan viloyati",
+            "name_ru": "Наманганская область",
+            "name_uz": "Namangan viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "8",
+        "fields": {
+            "guid": "506743cd-ae31-4bff-acc8-47f73781e9dc",
+            "created_time": "2023-03-13 12:15:48.479971+00",
+            "updated_time": "2023-03-13 12:15:48.479978+00",
+            "name": "Navoiy viloyati",
+            "name_ru": "Навоийская область",
+            "name_uz": "Navoiy viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "9",
+        "fields": {
+            "guid": "e2a98931-361b-4bd2-bcdb-096c92de70ab",
+            "created_time": "2023-03-13 12:15:48.480864+00",
+            "updated_time": "2023-03-13 12:15:48.48087+00",
+            "name": "Qoraqalpogiston Respublikasi",
+            "name_ru": "Республика Каракалпакстан",
+            "name_uz": "Qoraqalpogiston Respublikasi"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "10",
+        "fields": {
+            "guid": "8deca655-6468-4816-ab82-2b207cba0255",
+            "created_time": "2023-03-13 12:15:48.481956+00",
+            "updated_time": "2023-03-13 12:15:48.481965+00",
+            "name": "Samarqand viloyati",
+            "name_ru": "Самаркандская область",
+            "name_uz": "Samarqand viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "11",
+        "fields": {
+            "guid": "c235d14b-3a8b-4395-aeef-fd6b4b6387c4",
+            "created_time": "2023-03-13 12:15:48.483292+00",
+            "updated_time": "2023-03-13 12:15:48.483311+00",
+            "name": "Surxondaryo viloyati",
+            "name_ru": "Сурхандарьинская область",
+            "name_uz": "Surxondaryo viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "12",
+        "fields": {
+            "guid": "40c8dd90-64f6-483a-8b3c-0fd3a1576db3",
+            "created_time": "2023-03-13 12:15:48.485843+00",
+            "updated_time": "2023-03-13 12:15:48.485862+00",
+            "name": "Sirdaryo viloyati",
+            "name_ru": "Сырдарьинская область",
+            "name_uz": "Sirdaryo viloyati"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "13",
+        "fields": {
+            "guid": "f45ccaa6-8b08-446f-9f4f-0d4710565ded",
+            "created_time": "2023-03-13 12:15:48.4885+00",
+            "updated_time": "2023-03-13 12:15:48.488508+00",
+            "name": "Toshkent shahri",
+            "name_ru": "город Ташкент",
+            "name_uz": "Toshkent shahri"
+        }
+    },
+    {
+        "model": "common.Region",
+        "pk": "14",
+        "fields": {
+            "guid": "396bcd45-c37e-43af-8901-b0f838726f71",
+            "created_time": "2023-03-13 12:15:48.489599+00",
+            "updated_time": "2023-03-13 12:15:48.489605+00",
+            "name": "Toshkent viloyati",
+            "name_ru": "Ташкентская область",
+            "name_uz": "Toshkent viloyati"
+        }
+    }
+]

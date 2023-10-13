@@ -1,3 +1,10 @@
 Django==4.2.6
 djangorestframework==3.14.0
 drf-yasg==1.21.7
+pillow==10.0.1
+django-modeltranslation==0.18.11
+pillow-heif==0.13.0
+django-cors-headers==4.3.0
+django-filter==23.3
+djangorestframework-simplejwt==5.3.0
+django-cleanup==8.0.0
