@@ -57,6 +57,8 @@ urlpatterns = [path("default-admin-panel/", admin.site.urls)]
 
 # End Points
 # urlpatterns += [path("common/", include("common.urls"))]
+urlpatterns += [path("subject/", include("subjects.urls"))]
+
 
 if django_settings_module in ("staging", "development"):
     urlpatterns += [
