@@ -1,7 +1,12 @@
 from django.urls import path
 from rest_framework_simplejwt.views import TokenVerifyView
 
-from .views import StudentRegistrationView, StudentRefreshTokenView, StudentLoginView
+from .views import (
+    StudentRegistrationView,
+    StudentRefreshTokenView,
+    StudentLoginView,
+    StudentProfileView,
+)
 
 urlpatterns = [
     path("register/", StudentRegistrationView.as_view(), name="student-registration"),
@@ -12,4 +17,5 @@ urlpatterns = [
         name="student-refresh-token",
     ),
     path("token/verify/", TokenVerifyView.as_view(), name="student-token_verify"),
+    path("me/", StudentProfileView.as_view(), name="student-profile"),
 ]

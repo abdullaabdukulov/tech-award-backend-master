@@ -40,3 +40,18 @@ class LoginSerializer(serializers.Serializer):
             }
         else:
             raise serializers.ValidationError("Invalid phone number or password")
+
+
+class StudentProfileSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = User
+        fields = (
+            "first_name",
+            "last_name",
+            "email",
+            "phone",
+            "image",
+            "region",
+            "district",
+            "address",
+        )

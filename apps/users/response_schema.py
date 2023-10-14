@@ -1,5 +1,7 @@
 from drf_yasg import openapi
 
+from .serializers import StudentProfileSerializer
+
 RESPONSE_SCHEMA_400 = "Bad Request"
 
 RESPONSE_SCHEMA_DEFAULT = openapi.Response(
@@ -64,4 +66,11 @@ login_schema = {
         ),
         400: "Bad Request",
     },
+}
+
+STUDENT_PROFILE_RESPONSE = {
+    200: openapi.Response(
+        description="Success",
+        content={"application/json": {"schema": StudentProfileSerializer}},
+    )
 }
