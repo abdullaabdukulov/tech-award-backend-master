@@ -1,4 +1,7 @@
+from django.contrib.auth import authenticate
 from rest_framework import serializers
+from rest_framework_simplejwt.tokens import RefreshToken
+
 from .models import User
 
 
@@ -23,3 +26,17 @@ class StudentRegistrationSerializer(serializers.ModelSerializer):
 class LoginSerializer(serializers.Serializer):
     email = serializers.EmailField()
     password = serializers.CharField()
+
+    def validate(self, validated_data):
+        email = validated_data["email"]
+        password = validated_data["password"]
+
+        user = authenticate(email=email, password=password)
+        if user:
+            refresh = RefreshToken.for_user(user)
+            return {
+                "refresh_token": str(refresh),
+                "access_token": str(refresh.access_token),
+            }
+        else:
+            raise serializers.ValidationError("Invalid phone number or password")

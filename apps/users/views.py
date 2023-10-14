@@ -3,7 +3,6 @@ from rest_framework import status, generics
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
 from rest_framework.views import APIView
-from rest_framework_simplejwt.tokens import RefreshToken
 from rest_framework_simplejwt.views import TokenRefreshView
 
 from .serializers import StudentRegistrationSerializer, LoginSerializer
@@ -42,18 +41,10 @@ class StudentLoginView(generics.CreateAPIView):
 
     @swagger_auto_schema(**login_schema)
     def post(self, request, *args, **kwargs):
-        response = super().create(request, *args, **kwargs)
-        if response.status_code == status.HTTP_201_CREATED:
-            user = response.data.get("user")
-            refresh = RefreshToken.for_user(user)
-            return Response(
-                {
-                    "access": str(refresh.access_token),
-                    "refresh": str(refresh),
-                },
-                status=status.HTTP_200_OK,
-            )
-        return response
+        serializer = self.get_serializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        data = serializer.validated_data
+        return Response(data, status=200)
 
 
 @custom_response
