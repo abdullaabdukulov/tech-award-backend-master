@@ -61,9 +61,9 @@ class User(AbstractBaseUser, PermissionsMixin):
         Region, on_delete=models.SET_NULL, null=True, related_name="users"
     )
     district = models.ForeignKey(
-        District, on_delete=models.SET_NULL, null=True, related_name="+"
+        District, on_delete=models.SET_NULL, null=True, related_name="users"
     )
-    address = models.TextField()
+    address = models.TextField(null=True, blank=True)
     role = models.CharField(
         choices=Role.choices,
         max_length=20,
