@@ -6,5 +6,5 @@ django-modeltranslation==0.18.11
 pillow-heif==0.13.0
 django-cors-headers==4.3.0
 django-filter==23.3
-djangorestframework-simplejwt==5.3.0
+djangorestframework-simplejwt>=5.2.2,<5.4.0
 django-cleanup==8.0.0
