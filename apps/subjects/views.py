@@ -1,3 +1,5 @@
+from drf_yasg import openapi
+from drf_yasg.utils import swagger_auto_schema
 from rest_framework import generics, status
 from rest_framework.response import Response
 from rest_framework.views import APIView
@@ -58,6 +60,14 @@ class QuestionDetailView(generics.RetrieveUpdateDestroyAPIView):
 
 
 class AIResponseView(APIView):
+    @swagger_auto_schema(
+        request_body=PromptSerializer,
+        responses={
+            200: openapi.Response(
+                "Response Example", example={"response": "AI Response Example"}
+            )
+        },
+    )
     def post(self, request):
         serializer = PromptSerializer(data=request.data)
         if serializer.is_valid():
