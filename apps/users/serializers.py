@@ -12,11 +12,6 @@ class StudentRegistrationSerializer(serializers.ModelSerializer):
         model = User
         fields = ("first_name", "last_name", "email", "password")
 
-    def validate_email(self, value):
-        if "@example.com" not in value:
-            raise serializers.ValidationError("Email must be from example.com domain.")
-        return value
-
     def create(self, validated_data):
         password = validated_data.pop("password")
         user = User.objects.create_user(password=password, **validated_data)
