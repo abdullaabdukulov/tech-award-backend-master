@@ -1,11 +1,18 @@
-from rest_framework import generics
+from drf_yasg import openapi
+from drf_yasg.utils import swagger_auto_schema
+from rest_framework import generics, status
+from rest_framework.response import Response
+from rest_framework.views import APIView
+
 from .models import Subject, Test, Variant, Question
 from .serializers import (
     SubjectSerializer,
     TestSerializer,
     VariantSerializer,
     QuestionSerializer,
+    PromptSerializer,
 )
+from common.utils.question_ai import ai_response, translate_text
 
 
 class SubjectListCreateView(generics.ListCreateAPIView):
@@ -46,3 +53,25 @@ class QuestionListCreateView(generics.ListCreateAPIView):
 class QuestionDetailView(generics.RetrieveUpdateDestroyAPIView):
     queryset = Question.objects.all()
     serializer_class = QuestionSerializer
+
+
+class AIResponseView(APIView):
+    @swagger_auto_schema(
+        request_body=PromptSerializer,
+        responses={
+            200: openapi.Response(
+                "Response Example", example={"response": "AI Response Example"}
+            )
+        },
+    )
+    def post(self, request):
+        serializer = PromptSerializer(data=request.data)
+
+        if serializer.is_valid():
+            prompt = serializer.validated_data.get("prompt")
+            prompt = translate_text(prompt, "uz", "en")
+            ai_answer = ai_response(prompt)
+            ai_answer = translate_text(ai_answer, "en", "uz")
+            return Response({"response": ai_answer}, status=status.HTTP_200_OK)
+        else:
+            return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

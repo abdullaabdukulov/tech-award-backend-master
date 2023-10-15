@@ -20,6 +20,10 @@ class VariantSerializer(serializers.ModelSerializer):
         fields = "__all__"
 
 
+class PromptSerializer(serializers.Serializer):
+    prompt = serializers.CharField()
+
+
 class QuestionSerializer(serializers.ModelSerializer):
     class Meta:
         model = Question

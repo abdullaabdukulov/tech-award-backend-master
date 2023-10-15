@@ -8,3 +8,4 @@ django-cors-headers==4.3.0
 django-filter==23.3
 djangorestframework-simplejwt>=5.2.2,<5.4.0
 django-cleanup==8.0.0
+googletrans==4.0.0-rc1

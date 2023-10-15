@@ -8,6 +8,7 @@ from .views import (
     VariantDetailView,
     QuestionListCreateView,
     QuestionDetailView,
+    AIResponseView,
 )
 
 urlpatterns = [
@@ -19,4 +20,5 @@ urlpatterns = [
     path("variants/<int:pk>/", VariantDetailView.as_view(), name="variant-detail"),
     path("questions/", QuestionListCreateView.as_view(), name="question-list-create"),
     path("questions/<int:pk>/", QuestionDetailView.as_view(), name="question-detail"),
+    path("ai-response/", AIResponseView.as_view(), name="ai-response"),
 ]
