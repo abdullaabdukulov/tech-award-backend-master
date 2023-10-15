@@ -1,5 +1,3 @@
-from drf_yasg import openapi
-from drf_yasg.utils import swagger_auto_schema
 from rest_framework import generics, status
 from rest_framework.response import Response
 from rest_framework.views import APIView
@@ -12,7 +10,11 @@ from .serializers import (
     QuestionSerializer,
     PromptSerializer,
 )
-from common.utils.question_ai import ai_response, translate_text
+from common.utils.question_ai import (
+    ai_response,
+    translate_text,
+    detect_language_with_googletrans,
+)
 
 
 class SubjectListCreateView(generics.ListCreateAPIView):
@@ -56,22 +58,24 @@ class QuestionDetailView(generics.RetrieveUpdateDestroyAPIView):
 
 
 class AIResponseView(APIView):
-    @swagger_auto_schema(
-        request_body=PromptSerializer,
-        responses={
-            200: openapi.Response(
-                "Response Example", example={"response": "AI Response Example"}
-            )
-        },
-    )
     def post(self, request):
         serializer = PromptSerializer(data=request.data)
-
         if serializer.is_valid():
             prompt = serializer.validated_data.get("prompt")
-            prompt = translate_text(prompt, "uz", "en")
-            ai_answer = ai_response(prompt)
-            ai_answer = translate_text(ai_answer, "en", "uz")
-            return Response({"response": ai_answer}, status=status.HTTP_200_OK)
+            detected_language = detect_language_with_googletrans(prompt)
+            if detected_language == "uz":
+                prompt = translate_text(prompt, "uz", "en")
+                ai_answer = ai_response(prompt)
+                return Response(
+                    {"response": translate_text(ai_answer, "en", "uz")},
+                    status=status.HTTP_200_OK,
+                )
+            else:
+                prompt = translate_text(prompt, detected_language, "en")
+                ai_answer = ai_response(prompt)
+                return Response(
+                    {"response": translate_text(ai_answer, "en", "uz")},
+                    status=status.HTTP_200_OK,
+                )
         else:
             return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)

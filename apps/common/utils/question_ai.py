@@ -70,3 +70,9 @@ def ai_response(prompt):
 
     data = response.json()
     return data["completions"][0]["data"]["text"]
+
+
+def detect_language_with_googletrans(text):
+    translator = Translator()
+    detected_language = translator.detect(text).lang
+    return detected_language
